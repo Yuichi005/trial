@@ -1,18 +1,18 @@
 // Define your attainments and skills as arrays
 const attainments = [
-    "Certified Legendary in Call of Duty Mobile",
-    "Completed Minecraft Campaign",
-    "Certified in Tambay",
-    "Winner in Poster Making Contest"
+    "Certified Coderist",
+    "Completed Primary Level",
+    "Completed Secondary Level",
+    "Completed Tertiary Level"
 ];
 
 const skills = [
-    "Magmahal",
-    "Clingy",
-    "Mabait",
-    "Pogi",
-    "Magaling magdrawing",
-    "Magaling bumaril"
+    "Good at Java",
+    "Good at Python",
+    "Good at Javascript",
+    "Good at CSS",
+    "Good at CODM",
+    "Magaling bumuo ng dirt house sa Minecraft"
 ];
 
 // Function to display attainments
